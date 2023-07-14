@@ -7,8 +7,8 @@
 //
 
 #import "BNCBranchIntegration.h"
-#import <BranchSDK/Branch.h>
-#import <BranchSDK/BNCPreferenceHelper.h>
+#import <Branch/Branch.h>
+#import <Branch/BNCPreferenceHelper.h>
 #import <Segment/SEGAnalytics.h>
 #import <Segment/SEGAnalyticsUtils.h>
 

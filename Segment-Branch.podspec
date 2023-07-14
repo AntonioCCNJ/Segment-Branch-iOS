@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
   s.name             = "Segment-Branch"
-  s.version          = "0.1.25"
+  s.version          = "0.1.26"
   s.summary          = "Branch Integration for Analytics for iOS."
 
   s.description      = <<-DESC
@@ -24,5 +24,5 @@ Pod::Spec.new do |s|
   s.source_files = 'Pod/Classes/**/*'
 
   s.dependency 'Analytics'
-  s.dependency 'BranchSDK', '~> 2.2.0'
+  s.dependency 'Branch', '~> 1.39.0'
 end
